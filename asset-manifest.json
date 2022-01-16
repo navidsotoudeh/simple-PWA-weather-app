@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/simple-PWA-weather-app/static/css/main.4f02ce9f.chunk.css",
+    "main.js": "/simple-PWA-weather-app/static/js/main.0dfe2c24.chunk.js",
+    "main.js.map": "/simple-PWA-weather-app/static/js/main.0dfe2c24.chunk.js.map",
+    "runtime-main.js": "/simple-PWA-weather-app/static/js/runtime-main.dc38b6f3.js",
+    "runtime-main.js.map": "/simple-PWA-weather-app/static/js/runtime-main.dc38b6f3.js.map",
+    "static/js/2.6d300be9.chunk.js": "/simple-PWA-weather-app/static/js/2.6d300be9.chunk.js",
+    "static/js/2.6d300be9.chunk.js.map": "/simple-PWA-weather-app/static/js/2.6d300be9.chunk.js.map",
+    "static/js/3.7502b581.chunk.js": "/simple-PWA-weather-app/static/js/3.7502b581.chunk.js",
+    "static/js/3.7502b581.chunk.js.map": "/simple-PWA-weather-app/static/js/3.7502b581.chunk.js.map",
+    "index.html": "/simple-PWA-weather-app/index.html",
+    "static/css/main.4f02ce9f.chunk.css.map": "/simple-PWA-weather-app/static/css/main.4f02ce9f.chunk.css.map",
+    "static/js/2.6d300be9.chunk.js.LICENSE.txt": "/simple-PWA-weather-app/static/js/2.6d300be9.chunk.js.LICENSE.txt",
+    "static/media/Kotor.0a0b641a.jpg": "/simple-PWA-weather-app/static/media/Kotor.0a0b641a.jpg",
+    "static/media/style.css": "/simple-PWA-weather-app/static/media/cozy-reading.459ae6bc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc38b6f3.js",
+    "static/js/2.6d300be9.chunk.js",
+    "static/css/main.4f02ce9f.chunk.css",
+    "static/js/main.0dfe2c24.chunk.js"
+  ]
+}
